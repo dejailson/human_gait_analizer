@@ -1,0 +1,14 @@
+site_name: Human Gait Processor
+repo_url: https://github.com/dejailson/human_gait_analizer/tree/master/human_gait_processor
+repo_name: dejailson/human_gait_analizer/processor
+edit_uri: docs/
+theme:
+  name: material
+  language: pt-BR
+  #logo: assets/logo.png
+  #favicon: assets/favicon.png
+
+markdown_extensions: 
+  - attr_list:
+extra_css:
+  - stylesheets/extra.css
