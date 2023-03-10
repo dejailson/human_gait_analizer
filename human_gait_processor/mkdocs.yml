@@ -1,7 +1,7 @@
 site_name: Human Gait Processor
 repo_url: https://github.com/dejailson/human_gait_analizer/tree/master/human_gait_processor
 repo_name: dejailson/human_gait_analizer/processor
-edit_uri: docs/
+edit_uri: /docs
 theme:
   name: material
   language: pt-BR
