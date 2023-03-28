@@ -9,6 +9,3 @@ class Landmark:
     name: str
     coordinate: LandmarkCoordinate
     angle: float = field(init=False)
-
-    def calculate_angle(self, left_landmark, right_landmark) -> NoReturn:
-        ...
